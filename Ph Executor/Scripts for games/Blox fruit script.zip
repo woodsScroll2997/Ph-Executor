@@ -1,0 +1,24 @@
+SCRIPT 1.
+
+pcall(function()    repeat wait() until game:IsLoaded()    loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/Hyper/main/script.lua"))()end)
+
+
+SCRIPT .2
+
+
+loadstring(game:HttpGet(‘https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI’))()
+
+
+SCRIPT 3.
+
+Fruit Sniper and Notifier
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Xero-Trash/FullVerions/Loadmain/Loader-Sniper_78964'))()
+
+
+
+SCRIPT 4.
+
+Blox Fruit Chest Farm Script
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/Chest_onoff"))()

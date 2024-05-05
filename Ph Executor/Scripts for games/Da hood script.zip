@@ -1,0 +1,7 @@
+SCRIPT 1.
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImagineProUser/vortexdahood/main/vortex", true))()
+
+SCRIPT 2.
+
+loadstring(game:HttpGet("https://pastecode.dev/raw/0VplHVK0pQ/Script%20da%20hood%20scarlet"))()

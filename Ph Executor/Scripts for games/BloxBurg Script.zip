@@ -1,0 +1,24 @@
+
+Bloxburg Script || AUTOFARM *ANY JOB* || UPDATED 2024
+
+
+SCRIPT 1.
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PainfulDestroyer/Roblox/main/Scar%20Hub"))()
+
+
+SCRIPT 2.
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealJMz/BlueQ/main/Script", true))()
+
+
+SCRIPT 3.
+
+loadstring(game:HttpGet("https://projectevo.xyz/v4/script.lua", true))();
+
+
+SCRIPT 4.
+
+getgenv().Toggy = true
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/Bloxburg-Pizza-Farm'))()
+

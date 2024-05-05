@@ -1,0 +1,14 @@
+
+Pet Simulator 99 script – (Auto Farm, Teleports)
+
+SCRIPT 1.
+
+loadstring(game:HttpGet('https://www.zaphub.xyz/Exec'))()
+
+
+SCRIPT 2.
+
+Hello Kity Cafe Script – (Treasure Chest farm)
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/JustAP1ayer/PlayerHubOther/main/PlayerHubHelloKittyCafe.lua'))()
+
